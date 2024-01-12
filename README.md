@@ -25,10 +25,10 @@ Once all the artifacts have been obtained, you can use the **vivado** programmer
 
 ## Documentation
 
-For more information check the folder **documentation**.
+For more information check [documentation](documentation/README.md).
 
 ## Sources
 
-For more information check the folder **sources**
+For more information check [sources](sources/README.md).
 
 

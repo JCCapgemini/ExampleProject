@@ -6,7 +6,7 @@ This is the main source of documentation, as such it will be the highest level. 
 
 With we will try to express the full IO of the system to start to specify the task to be realized.
 
-![Context diagram](ContextDiagram.png)
+![Context diagram](ContextDiagram.drawio.png)
 
 With this, we see the IO requried for the project is the following:
 - MIPI

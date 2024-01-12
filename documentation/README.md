@@ -28,7 +28,7 @@ Taking all of before into account the resulting FPGA selected is **PENDING**.
 
 ## BOM
 
-We will have a list of materials attached as a CSV/Excel file for anyone to replicate the project.
+We will have a list of materials attached as a CSV/Excel file for anyone to replicate the project [BOM](BOM.csv) .
 
 ## Requirements
 

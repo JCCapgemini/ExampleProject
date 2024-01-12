@@ -32,7 +32,7 @@ We will have a list of materials attached as a CSV/Excel file for anyone to repl
 
 ## Requirements
 
-In this part we will specify what functionality will be realized by the final system. For easier managment, the full specification will be set in a separate file: "**REQUIREMENTS.md**.
+In this part we will specify what functionality will be realized by the final system. For easier managment, the full specification will be set in a separate file:  [requirements](REQUIREMENTS.md).
 
 To give a sense of the purpouse of the project, this is what we expect to archieve:
 + Capture an image
